@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Saidkarim Yuldashev\source\repos\Market\Market\Header.h(91,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Saidkarim Yuldashev\source\repos\Market\Market\Source.cpp(84,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Saidkarim Yuldashev\source\repos\Market\Market\Source.cpp(12,20): warning C4101: pK1: неиспользованная локальная переменная
+  Market.vcxproj -> C:\Users\Saidkarim Yuldashev\source\repos\Market\Debug\Market.exe
